@@ -287,10 +287,10 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments:
         provider: "facebook"
         facebook:
-          appid : #
+          appid: # optional
           num_posts : 5
           colorscheme : "light"
       share: true
