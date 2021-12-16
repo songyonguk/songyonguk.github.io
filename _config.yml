@@ -26,7 +26,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "sonyonguk/songyonguk.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/dolha.jpeg"
-masthead_title           : "My very first blog" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Happy Coding :)" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -96,8 +96,7 @@ social:
 analytics:
   provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          : 
-    stream_id : "G-YWQ5EZ4XP4"
+    tracking_id          : "G-YWQ5EZ4XP4"
     anonymize_ip         : false #default
 
 
