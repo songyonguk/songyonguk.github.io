@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Git&Github'
 comments : true
 
