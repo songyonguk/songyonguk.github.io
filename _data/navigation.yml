@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Posts"
-    url: /posts/
+  - title: "Blog"
+    url: "https://songyonguk.github.io"
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
